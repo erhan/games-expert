@@ -1,0 +1,14 @@
+{
+  "name": "games-expert",
+  "displayName": "Games Expert",
+  "version": "1.0.0",
+  "description": "Version-aware game guidance for popular games, including Whiteout Survival.",
+  "author": {
+    "name": "Erhan BÜTE",
+    "url": "https://github.com/erhan"
+  },
+  "homepage": "https://github.com/erhan/games-expert",
+  "repository": "https://github.com/erhan/games-expert",
+  "license": "MIT",
+  "keywords": ["games", "gaming", "skills", "whiteout-survival", "strategy"]
+}

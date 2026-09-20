@@ -1,0 +1,17 @@
+{
+  "name": "games-expert",
+  "description": "Extensible, version-aware gaming skills for AI assistants.",
+  "metadata": {
+    "description": "Extensible, version-aware gaming skills for AI assistants."
+  },
+  "owner": {
+    "name": "Erhan BÜTE"
+  },
+  "plugins": [
+    {
+      "name": "games-expert",
+      "source": "./",
+      "description": "Version-aware guidance for popular games, including Whiteout Survival."
+    }
+  ]
+}

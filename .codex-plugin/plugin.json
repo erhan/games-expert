@@ -1,0 +1,18 @@
+{
+  "name": "games-expert",
+  "version": "1.0.0",
+  "description": "Game-specific guidance for popular games, including Whiteout Survival, with version-aware and spoiler-conscious answers.",
+  "author": {
+    "name": "Erhan BÜTE"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Games Expert",
+    "shortDescription": "Reliable help for popular games and Whiteout Survival.",
+    "longDescription": "Provides focused, version-aware help for Minecraft, Fortnite, GTA V and Online, League of Legends, Valorant, Counter-Strike 2, Roblox, Elden Ring, and Whiteout Survival.",
+    "developerName": "Local developer",
+    "category": "Lifestyle",
+    "capabilities": ["Game guides", "Build and strategy advice", "Version-aware answers"],
+    "defaultPrompt": "Ask me about a supported game, including Whiteout Survival."
+  }
+}

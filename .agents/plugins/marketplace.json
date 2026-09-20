@@ -1,0 +1,20 @@
+{
+  "name": "games-expert",
+  "interface": {
+    "displayName": "Games Expert"
+  },
+  "plugins": [
+    {
+      "name": "games-expert",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Lifestyle"
+    }
+  ]
+}
